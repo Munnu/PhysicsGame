@@ -1,0 +1,3 @@
+This was an group project. We learned the basics behind MVP/MVC frameworks and a little bit of design patterns along the way. With this project, our stakeholders was middle school students. We had to make a game based off of a science topic learned in middle school.
+
+This is very incomplete and will not run. This is for displaying purposes. lasergameDemoCore only includes a portion of the original code. As you can tell, the project was broken up into 3 major parts, the model, view and presenter. This repository does not include the model, but it includes multiple presenters and views for the game.
